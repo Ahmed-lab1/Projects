@@ -9,3 +9,5 @@ Printed circuit board designing through NI ultiboard is in "Ahmed PROJECT 4" fil
 
 "Computer Lab 3- Ahmed and Lab 4-Ahmed pdf" were are screenshoot of matlab software projects.
 
+"DIGI2002_Lab7_Ahmed Moazzam_Butt.docx" file shows MATLAB projects which includes code and image of magnitude and phase response of different types of signals.
+
